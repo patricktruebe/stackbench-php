@@ -1,0 +1,6 @@
+{
+  "name": "Stackbench for PHP",
+  "description": "A toolchain for benchmarking typical PHP tasks and tools",
+  "repository": "https://github.com/patricktruebe/stackbench-php",
+  "addons": []
+}
